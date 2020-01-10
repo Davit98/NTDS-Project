@@ -15,7 +15,7 @@ _Data Processing and Graph Construction.ipynb_ - uses natural language processin
 
 _Exploring the Graph.ipynb_ - explores the structure and various properties of the graph
 
-_Data Exploitation.ipynb_ - this is the main notebook which tries to answer the research question. It includes the following:
+_Data Exploitation.ipynb_ - this is the main notebook which tries to answer the research questions. It includes the following:
 
 * Network visualizations
 * Clustering using Louvain method (community detection)
