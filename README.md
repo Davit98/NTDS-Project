@@ -1,5 +1,5 @@
 # A Culinary Tour of Data Science
-Exploring the Epicurious recipe data available on [Kaggle](https://www.kaggle.com/hugodarwood/epirecipes#full_format_recipes.json) using network science and graph theory.
+Analyzing the Epicurious recipe data available on [Kaggle](https://www.kaggle.com/hugodarwood/epirecipes#full_format_recipes.json) using network science and graph theory.
 
 #### Prerequisites
 
