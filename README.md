@@ -1,4 +1,4 @@
-# NTDS Project
+# A Culinary Tour of Data Science
 
 #### Prerequisites
 
